@@ -1,0 +1,4 @@
+Anomaly detection techniques:
+Supervised (z-score, IQR, SVM, KNN)
+semi supervised aka novelity detection (one class SVM)
+Unsupervised aka outliers detection (Robust covariance, One class SVM, Local outlier factor,kmeans, DBscan, Autoencoder)
