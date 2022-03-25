@@ -1,5 +1,4 @@
 # Speaker Accent Recognition Using MFCCs
-(The imbalanced Case)
 ## Background
 Accent recognition is classification of the speaker accent from an input signal. Classifying accents can provide information about a speaker’s nationality and heritage, which can help identify topics more relevant to the user, for the purposes of search results and advertisements. Typical applications include online banking, telephone shopping, and security applications.
 Typically, the input signal is represented in frequency domain then dimensionality reduction can be performed together with feature extraction.
@@ -40,5 +39,20 @@ This accent reognition is a classification problem and the response variable $yi
 ![tex2img_equation](https://user-images.githubusercontent.com/59888707/160080894-276fb852-00b2-4c5c-9aa7-4ef5c3ab73b4.png)
 
 showing that there are 6 class labels 
-
 The design is **balanced in terms of US/NOT US accent but we want to extend the problem to classify all accents, hence imbalanced problem**
+
+## 3. Tools
+
+language: Python 3.8.5 
+platform: Jupyter
+Libraries:
+      1- numpy 
+      2- pandas 
+      3- Matplotlib
+      4- seaborn
+      5- scipy
+      6- sklearn
+      7- imblearn
+## 4. Results
+
+Code available on
