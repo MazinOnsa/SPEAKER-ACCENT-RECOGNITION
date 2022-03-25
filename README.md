@@ -1,4 +1,5 @@
 # Speaker Accent Recognition Using MFCCs
+(The imbalanced Case)
 ## Background
 Accent recognition is classification of the speaker accent from an input signal. Classifying accents can provide information about a speaker’s nationality and heritage, which can help identify topics more relevant to the user, for the purposes of search results and advertisements. Typical applications include online banking, telephone shopping, and security applications.
 Typically, the input signal is represented in frequency domain then dimensionality reduction can be performed together with feature extraction.
