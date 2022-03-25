@@ -21,7 +21,7 @@ MFCC values are not very robust in the presence of additive noise, and so it is 
 ![2](https://user-images.githubusercontent.com/59888707/159986475-56cfc591-71c9-4525-8715-f2de0247d717.png)
 
 ## 2. Dataset
-      ### 2.1 Source
+   ### 2.1 Source
    
 A total of 329 signal data were collected from the voice of 22 speakers 11 female and 11 male of accented speakers speaking English, containing 165 US voice and 164 non-US voice from 5 countries: Spain, France, Germany, Italy, and UK.
 
@@ -31,7 +31,7 @@ The 12th lowest order melfrequency cepstral coefficients (MFCCs) of the audio si
 
 The Source of both audio files and MFCC spreadsheet available at UCI at the following link https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition
 
-      ### 2.2 Problem formulation
+   ### 2.2 Problem formulation
    
 This accent reognition is a classification problem and the response variable $yi$ is givn by:
 
