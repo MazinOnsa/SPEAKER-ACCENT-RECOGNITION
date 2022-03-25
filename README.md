@@ -45,21 +45,7 @@ language: Python 3.8.5
 
 platform: Jupyter
 
-Libraries:
-
-      1- numpy
-
-      2- pandas
-      
-      3- Matplotlib
-      
-      4- seaborn
-      
-      5- scipy
-      
-      6- sklearn
-      
-      7- imblearn
+Libraries: (numpy, pandas, Matplotlib, seaborn, scipy, sklearn, imblearn)
       
 ## 4. Results
 
