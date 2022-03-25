@@ -41,7 +41,6 @@ showing that there are 6 class labels
 The design is **balanced in terms of US/NOT US accent but we want to extend the problem to classify all accents, hence imbalanced problem**
 
 ## 3. Tools
-
 language: Python 3.8.5 
 platform: Jupyter
 Libraries:
